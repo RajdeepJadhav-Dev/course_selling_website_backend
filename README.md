@@ -1,6 +1,3 @@
-Here's a cool **README** for your GitHub repository:  
-
----
 
 # 🚀 Course Selling Website - Backend  
 
